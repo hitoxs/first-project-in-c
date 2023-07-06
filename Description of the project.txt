@@ -1,0 +1,21 @@
+The provided code represents one of the initial projects developed during the early stages of learning the C programming language in school. This project aimed to create a basic car rental management system that allows users to perform essential operations such as adding cars, managing client information, and handling rental transactions.
+
+The project utilizes fundamental concepts of C programming, including file handling, structure definitions, input/output operations, and basic console manipulation. The program employs a modular approach, dividing the functionality into several functions to enhance code organization and maintainability.
+
+The main features of the program include:
+
+1.Adding Cars: The program enables users to enter details for cars, such as the car number, brand, model, and year of manufacture. The entered information is then stored in a file named "cars.txt" for future reference.
+
+2.Managing Clients: Users can input client information, including client number, name, surname, gender, address, and telephone number. This data is stored in a file named "fclients.txt" for later retrieval.
+
+3.Displaying Car and Client Details: The program provides the ability to display the stored car and client information. Users can view the details entered for each car and client, facilitating easy access and reference to the recorded data.
+
+4.Deleting and Modifying Car Details: Users can delete car entries by specifying the car number. Additionally, the program allows modification of car details, such as the brand, model, or year of manufacture, based on user input.
+
+5.Additional Billing Information: The system maintains a file named "ffacture.txt" to store supplementary billing data. This information includes the rental date, price, and duration for each transaction.
+
+6.Car Search: The program incorporates a search functionality that enables users to find cars based on their brand name. This feature assists in quickly locating specific cars within the system.
+
+It's important to note that while this project provided an introductory exercise in C programming, it represents a simplified implementation of a car rental management system. Advanced functionalities such as user authentication, comprehensive error handling, and database integration are not covered in this basic implementation.
+
+Overall, this project served as a foundation for understanding fundamental programming concepts in C and applying them to develop a simple management system for car rentals.
