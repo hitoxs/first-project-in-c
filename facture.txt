@@ -1,0 +1,48 @@
+
+		²²²²²²²²²²² LOCATION HOMIES ²²²²²²²²²²²
+
+		FACTURE
+
+		Voiture n° : 0
+		Marque : 
+		Modele : 
+		Anne : 0
+
+		Client n° : 0
+		Nom : 
+		Prenom : 
+		GIN : 
+		Adresse : 
+		Telephone : 0
+		²²²²²²²²²²² LOCATION HOMIES ²²²²²²²²²²²
+
+		FACTURE
+
+		Voiture n° : 0
+		Marque : 
+		Modele : 
+		Anne : 0
+
+		Client n° : 0
+		Nom : 
+		Prenom : 
+		GIN : 
+		Adresse : 
+		Telephone : 0
+		²²²²²²²²²²² LOCATION HOMIES ²²²²²²²²²²²
+
+		FACTURE
+
+		Voiture : 1
+		Marque : mercedes
+		Modele : classa
+		Annee : 2023
+		Client : 101
+		Nom : haitam
+		Prenom : aberdaa
+		GIN : g45454
+		Adresse : afca
+		Telephone : 60534
+		Date : 2023
+		Prix : 500.00
+		Duree : 5 jours
